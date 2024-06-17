@@ -16,7 +16,7 @@ while True:
     print("B. Subtraction")
     print("C. Multiplication")
     print("D. Division")
-    print("E. Exit. And also this program is made by dip!")
+    print("E. Exit. And also this program is made by Velicin!")
     choice = input("input your choice: ")
 
     if choice == "a" or choice == "A":
